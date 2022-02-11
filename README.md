@@ -3,10 +3,13 @@ An applescript for extracting the shortcut URLs from macOS System Preference pan
 
 Script Usage:
 
+1) Open shortcut_enumerator.applescript
 1) Open 'System Preferences'
 1) Open a preference pane
 1) Execute the shortcut_enumerator applescript
-1) Paste links
+1) Paste links somewhere
+
+![Demo GIF](/images/demo.gif)
 
 **Note**: _Not all preference panes can be accessed by their shortcut. Only preference panes whose Info.plist includes NSPrefPaneAllowsXAppleSystemPreferencesURLScheme can be accessed with shortcuts._
 
