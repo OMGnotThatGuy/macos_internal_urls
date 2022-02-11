@@ -29,6 +29,6 @@ macOS 12.1 Pref Panels that can be accessed with Shortcuts:
 * Touch ID
 * Wallet & Apple Pay
 
-Example Shortcut URLs to access Preference Panels:
+Using Shortcut URLs to access Preference Panels inside Shortcut.app:
 ![Shortcut.app Screenshot](/images/shortcut_example.jpg)
 
