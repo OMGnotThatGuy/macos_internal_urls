@@ -1,4 +1,6 @@
-# USAGE: Open the System Preferences app to a panel, then run this script to enumerate the shortcuts to that panel. Shortcuts will be copied to the clipboard.
+# USAGE: Open the System Preferences app to a panel, then run this script to enumerate the shortcuts to that panel. Shortcuts will be copied to the clipboard. 
+
+# NOTE: URL access is only allowed if the preference pane's Info.plist includes 'NSPrefPaneAllowsXAppleSystemPreferencesURLScheme'. This script does not check for this condition.
 
 # Example output:
 # x-apple.systempreferences:com.apple.preference.printfax?scan
