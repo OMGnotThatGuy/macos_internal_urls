@@ -1,3 +1,5 @@
+# Written by u/OMGnotThatGuy for u/Same_Nebula3406
+
 # USAGE: Open the System Preferences app to a panel, then run this script to enumerate the shortcuts to that panel. Shortcuts will be copied to the clipboard. 
 
 # NOTE: URL access is only allowed if the preference pane's Info.plist includes 'NSPrefPaneAllowsXAppleSystemPreferencesURLScheme'. This script does not check for this condition.
