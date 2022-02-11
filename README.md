@@ -14,7 +14,7 @@ Script Usage:
 **Note**: _Not all preference panes can be accessed by their shortcut. Only preference panes whose Info.plist includes NSPrefPaneAllowsXAppleSystemPreferencesURLScheme can be accessed with shortcuts._
 
 
-macOS 12.1 Pref Panels that can be accessed with Shortcuts:
+macOS 12.1 Pref Panes that can be accessed with Shortcuts:
 
 * Accessibility
 * Apple ID
@@ -33,7 +33,7 @@ macOS 12.1 Pref Panels that can be accessed with Shortcuts:
 * Touch ID
 * Wallet & Apple Pay
 
-Using Shortcut URLs to access Preference Panels inside Shortcut.app:
+Using Shortcut URLs to access Preference Panes inside Shortcut.app:
 ![Shortcut.app Screenshot](/images/shortcut_example.jpg)
 
 
